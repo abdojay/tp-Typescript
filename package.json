@@ -4,6 +4,9 @@
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
+    "@types/jasmine": "^4.0.3",
+    "jasmine-spec-reporter": "^7.0.0",
+    "jasmine-ts": "^0.4.0",
     "ts-node": "^10.8.1",
     "typescript": "^4.7.3",
     "web-request": "^1.0.7"
